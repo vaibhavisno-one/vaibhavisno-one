@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Kumar
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Web dev, Java, DSA
-- 💬 Ask me about JavaScript, HTML, CSS, Java
+- 💬 Ask me about JavaScript, HTML, CSS, Java, GSAP
 - 📫 reach me kumar1305vaibhav@gmail.com
 
 <img alt = "My stats" src ="https://github-readme-stats.vercel.app/api?username=vaibhavisno-one&show_icons=true&theme=dark"/>
