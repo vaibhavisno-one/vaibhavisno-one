@@ -5,6 +5,10 @@
 - 📫 reach me kumar1305vaibhav@gmail.com
 
 <img alt = "My stats" src ="https://github-readme-stats.vercel.app/api?username=vaibhavisno-one&show_icons=true&theme=dark"/>
+<img alt = "Top Langs" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavisno-one&layout=compact"/>
+<img alt = "Top Langs" src ="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavisno-one)](https://github.com/anuraghazra/github-readme-stats"/>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavisno-one&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
