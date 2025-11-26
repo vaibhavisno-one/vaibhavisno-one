@@ -12,15 +12,6 @@ A backend-focused developer passionate about building real-world applications, s
 - Open to collaborating on **backend-heavy or full-stack projects**.  
 - Reach me at **kumar1305vaibhav@gmail.com**
 
-
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=vaibhavisno-one&show_icons=true&theme=transparent" />
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavisno-one&theme=transparent" />
-</p>
-
 ---
 
 ### 🚀 What I’m Currently Working On
